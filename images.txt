@@ -7,3 +7,4 @@ mongo:5.0.5
 kibana:7.12.1
 mobz/elasticsearch-head:5
 rabbitmq:3-management
+ 
