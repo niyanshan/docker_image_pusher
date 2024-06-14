@@ -4,3 +4,12 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+elasticsearch:7.12.1
+mysql:8.0.33
+redis:6.2.11
+nginx:1.20.1
+mongo:5.0.5
+kibana:7.12.1
+mobz/elasticsearch-head:5
+rabbitmq:3-management
